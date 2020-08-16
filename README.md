@@ -8,4 +8,8 @@ I downloaded a Eastern Washington RGB GeoTiff and used several superpixel algori
 
 # First Test Results
 
+### Original Download
 ![Original](https://github.com/metostom/image-classification/blob/master/Orginal.JPG)
+
+### Classified Image
+![Classified](https://github.com/metostom/image-classification/blob/master/Segmented.JPG)
