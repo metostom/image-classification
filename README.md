@@ -1,4 +1,4 @@
-# image-classification Notebook
+# image-classification
 Basic Image Segmentation and Classification Using Superpixel Segmentation and K-means classification. Just a fun side project to try out some image classification techniques in and afternoon. 
 
 # Summary
