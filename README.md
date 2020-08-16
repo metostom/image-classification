@@ -13,3 +13,7 @@ I downloaded a Eastern Washington RGB GeoTiff and used several superpixel algori
 
 ### Classified Image
 ![Classified](https://github.com/metostom/image-classification/blob/master/Segmented.JPG)
+
+# Thoughts
+
+This simple method appears to correctly classify some areas but really does not seem to capture many finer differences in the landscape. Would be interested to apply this to a larger image with more variable landcover. Would need devote more time to accurately segment but not bad for an afternoon!
