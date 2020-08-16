@@ -8,4 +8,4 @@ I downloaded a Eastern Washington RGB GeoTiff and used several superpixel algori
 
 # First Test Results
 
-![Original](/Original.jpg)
+![Original](https://github.com/metostom/image-classification/blob/master/Orginal.JPG)
