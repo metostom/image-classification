@@ -1,5 +1,5 @@
 # image-classification
-Basic Image Segmentation and Classification Using Superpixel Segmentation and K-means classification. Just a fun side project to try out some image classification techniques in and afternoon. 
+Messing Around with some basic Image Segmentation and Classification Using Superpixel Segmentation and K-means classification. Just a fun side project to try out some image classification techniques in an afternoon. 
 
 # Summary
 
@@ -19,4 +19,4 @@ I downloaded a Eastern Washington RGB GeoTiff and used several superpixel algori
 
 # Thoughts
 
-This simple method appears to correctly classify some areas but really does not seem to capture many finer differences in the landscape. Would be interested to apply this to a larger image with more variable landcover. Would need devote more time to accurately segment but not bad for an afternoon!
+This simple method appears to correctly classify some areas but really does not seem to capture many finer differences in the landscape. Would be interested to apply this to a larger image with more variable landcover. Would need devote more time to accurately segment but not bad for an fun afternoon!
